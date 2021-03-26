@@ -13,10 +13,22 @@ Search the current and future weather conditions for multiple cities.
 
 ## Created With
 
--HTML
--CSS
--JavaScript
--JSON
--jQuery
--Bootstrap
--OpenWeather API
+- HTML
+- CSS
+- JavaScript
+- JSON
+- jQuery
+- Bootstrap
+- OpenWeather API
+
+## Website
+
+https://istephensondev.github.io/Weather-Dashboard/.
+
+![image](https://user-images.githubusercontent.com/74675624/112577795-18d9d400-8dc3-11eb-8288-514be36233c2.png)
+
+## ## Contribution
+Made with ❤️ by Ivy Stephenson
+
+©️2020 Ivy Stephenson
+

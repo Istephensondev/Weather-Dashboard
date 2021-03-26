@@ -10,3 +10,13 @@ Search the current and future weather conditions for multiple cities.
 - view future weather conditions for that city and be presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity
 - click on a city in the search history and again be presented with current and future conditions for that city
 - use localStorage to store any persistent data
+
+## Created With
+
+-HTML
+-CSS
+-JavaScript
+-JSON
+-jQuery
+-Bootstrap
+-OpenWeather API
